@@ -1,4 +1,4 @@
-👋 Hi, I’m @mrothe570  
+👋 Hi, I’m Michael  
 👀 I’m interested in full stack web development  
 🧮 I’m currently learning JavaScript  
 💞️ I’m looking to collaborate on any project with a focus on user autonomy and creating a faster, more sustainable web  
